@@ -24,7 +24,7 @@ Starting with a frequency of zero, what is the resulting frequency after all of 
 
 Now that we've determined how to calculate a frequency, we need to calibrate our device. To calibrate the device, you need to find the first frequency it reaches twice.
 
-For example, using `+1`, `-2`, `+3`, `+1` again, the device would loop as follows:
+For example, using `+1`, `-2`, `+3`, `+1` again, the device would loop as follows:  
 Current frequency `0`, change of `+1`; resulting frequency `1`.  
 Current frequency `1`, change of `-2`; resulting frequency `-1`.  
 Current frequency `-1`, change of `+3`; resulting frequency `2`.  

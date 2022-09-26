@@ -18,6 +18,8 @@ Here are other example situations:
 `+1`, `+1`, `-2` results in `0`
 `-1`, `-2`, `-3` results in `-6`
 
+Starting with a frequency of zero, what is the resulting frequency after all of the changes in frequency have been applied?
+
 ## Part 2 - Calibrate the frequency
 
 Now that we've determined how to calculate a frequency, we need to calibrate our device. To calibrate the device, you need to find the first frequency it reaches twice.

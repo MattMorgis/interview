@@ -29,8 +29,8 @@ Current frequency `0`, change of `+1`; resulting frequency `1`.
 Current frequency `1`, change of `-2`; resulting frequency `-1`.  
 Current frequency `-1`, change of `+3`; resulting frequency `2`.  
 Current frequency `2`, change of `+1`; resulting frequency `3`.  
-(At this point, the device continues from the start of the list.)
-Current frequency `3`, change of `+1`; resulting frequency `4`.
+(At this point, the device continues from the start of the list.)  
+Current frequency `3`, change of `+1`; resulting frequency `4`.  
 Current frequency `4`, change of `-2`; resulting frequency `2`, which has already been seen.  
 In this example, the first frequency reached twice is `2`.
 
